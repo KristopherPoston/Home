@@ -1,0 +1,21 @@
+.under {
+    text-decoration: underline;
+}
+
+#orange{
+    background-color: orange;
+}
+
+.red{
+    color:red;
+}
+
+#mainDiv{
+    display:flex;
+    flex-direction:column;
+}
+
+#princePic{
+    width: 500px;
+    height: 500px;
+}
